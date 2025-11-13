@@ -1,0 +1,14 @@
+Issue: If any of the websites are not working 
+1. Check your internet connection: Make sure that you have an active and stable internet connection. You can do this by connecting to another device or checking the signal strength on your network adapter.
+
+2. Clear your browser cache: Sometimes, cached data can cause issues with website loading. Go to your browser settings and clear your browsing history, cache, and cookies.
+
+3. Disable any extensions: Some browser extensions can conflict with websites and prevent them from loading. Try disabling all your extensions temporarily to see if this resolves the issue.
+
+4. Reset your DNS: Your Domain Name System (DNS) settings can affect how your browser connects to websites. You can reset your DNS by going to your network adapter settings and flushing the DNS cache.
+
+5. Check for malware: It's possible that your computer is infected with malware, which could be preventing websites from loading. Run a full system scan with an antivirus program to check for any infections.
+
+6. Restart your router: Sometimes, simply restarting your router can resolve connection issues. Unplug the power cord for a few seconds and then plug it back in.
+
+7. Contact your ISP: If none of these steps work, you may have an issue with your internet service provider (ISP). Reach out to them for further assistance.

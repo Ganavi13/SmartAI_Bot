@@ -1,0 +1,6 @@
+Issue : System not powering on
+1.First, make sure the power cord is securely plugged into an electrical outlet. 
+2.If the system still does not turn on, check to ensure that the power supply is properly seated in its slot and secured with a screw or clip. 
+3.It's also possible that a fuse may have blown within the power supply; if so, replace it with a fuse of the same amperage rating. 
+4.Finally, try resetting the motherboard by removing all connected components (except for the power supply and memory), disconnecting the battery, waiting for 30 seconds, reinstalling the battery, and reattaching the components.
+5.If none of these steps work, it's possible that a component, such as the motherboard or CPU, has failed and will need to be replaced.

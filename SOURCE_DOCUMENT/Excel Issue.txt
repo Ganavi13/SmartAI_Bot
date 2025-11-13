@@ -1,0 +1,10 @@
+Excel Issue
+1. Check for updates: Make sure that your copy of Microsoft Office, including Excel, is up-to-date with the latest patches and service packs. You can do this by going to the File menu in Excel, selecting Account, and then clicking on Update Options. From here, select "Update Now" to download and install any available updates.
+
+2. Close other applications: If you have a lot of other programs running in the background, it could be causing your system resources to become overloaded, leading to slow or unresponsive performance. Try closing any unnecessary applications and see if that helps.
+
+3. Disable add-ins: Sometimes third-party add-ins can cause compatibility issues with Excel. To disable them, go to the File menu in Excel, select Options, and then click on Add-Ins. From here, uncheck any add-ins you don't need and then click Go. This will remove those add-ins from your current Excel session.
+
+4. Repair Office: If you continue to have issues with Excel, you can try repairing your copy of Microsoft Office. To do this, go to the Control Panel (either by right-clicking on the Start menu and selecting "Control Panel" or by pressing Windows Key + X), select Programs and Features, and then click on Microsoft Office. From here, select "Repair" and follow the prompts to complete the repair process.
+
+5. Restart your computer: If none of the above steps work, a simple restart of your computer may be all that's needed to resolve the issue. Be sure to save any open Excel files before you restart.

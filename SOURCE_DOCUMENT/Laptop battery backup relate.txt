@@ -1,0 +1,10 @@
+Issue : Laptop battery backup related issue 
+1. Check if any apps are causing excessive battery drain - go to "Settings" > "Battery" and see which apps are using the most battery life. Disable or uninstall apps that you don't use frequently.
+
+            2. Lower screen brightness - swipe down from the top of your screen and adjust the brightness slider to a lower setting, or go to "Settings" > "Display & Brightness" and reduce the brightness level there.
+
+            3. Turn off features you don't need - go to "Settings" > "Features" and disable any features that you don't use, such as Bluetooth, Wi-Fi, or NFC. This will help conserve battery life.
+
+            4. Calibrate the battery - this involves draining the battery completely and then charging it back up. This can sometimes help reset the battery management system and improve its performance.
+
+            5. Restore the device to factory settings - as a last resort, you may want to try resetting your device to its original state. This will erase all of your data, so be sure to backup any important information before proceeding. Go to "Settings" > "System" > "Reset options" and select "Erase all data (factory reset)".

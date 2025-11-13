@@ -1,0 +1,7 @@
+Issue: Wi-fi/LAN issue 
+1.Make sure your network cable is properly connected to both the router and the computer.
+2.Check that the correct network mode is selected in your computer's network settings. This may be located in the Control Panel or Network and Sharing Center, depending on your operating system.
+3.Restart your router and computer to see if this resolves the issue.
+4.If you are using a wireless connection, try moving closer to the router to ensure a stronger signal. You can also try resetting the network adapter by disconnecting it from power for 10-20 seconds, then reconnecting and reconfiguring.
+5.It's possible that there is a conflict with another device using the same wireless frequency; in this case, you may need to switch to a less congested channel or use a different wireless band (such as 5GHz instead of 2.4GHz).
+6.If none of these steps work, it's possible that there is an issue with your network adapter or motherboard; in this case, you may need to replace the affected component.

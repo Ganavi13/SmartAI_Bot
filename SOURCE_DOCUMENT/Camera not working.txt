@@ -1,0 +1,14 @@
+Camera not working 
+ 1. Restart your device: Sometimes a simple restart can fix the problem. Press and hold the power button until "Slide to Power Off" appears, then slide it to turn off your device. After a few seconds, press and hold the power button again to turn on your device.
+
+            2. Check camera permissions: Make sure that your device has granted permission for the camera app to access the camera. Go to Settings > Apps & notifications > [app name] > Permissions and make sure that the toggle next to Camera is enabled.
+
+            3. Clear cache and data: Sometimes, a corrupted cache or data can cause camera issues. Go to Settings > Apps & notifications > [app name] > Storage > Clear cache or Clear storage (depending on the severity of the issue).    
+
+            4. Reset app preferences: Some apps rely on other settings in your device to function properly, resetting them might help resolve the camera issue. Go to Settings > Apps & notifications > Advanced > Reset app preferences and tap RESET APPS.
+
+            5. Update software: Check if there is a new software update available for your device. Go to Settings > System > System updates and follow the on-screen instructions to download and install any available updates.
+
+            6. Factory reset: If none of the above steps work, it might be necessary to perform a factory reset. This will erase all data from your device, so make sure you have backed up your important information first. Go to Settings > System > Reset options > Erase all data (factory reset) and tap RESET PHONE.
+
+            If the camera issue persists after trying these steps, it might be a hardware problem with your device, in which case you should contact the manufacturer or a professional for further assistance.

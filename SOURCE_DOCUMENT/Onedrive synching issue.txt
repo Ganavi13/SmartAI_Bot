@@ -1,0 +1,15 @@
+Issue 17: Onedrive synching issue 
+
+            1. Check your internet connection: Make sure you have a stable and reliable internet connection as slow or unstable connections can cause syncing problems.
+
+            2. Restart OneDrive: Sometimes, simply restarting the OneDrive app on your device can resolve syncing issues. Close the app, wait for 10-15 seconds, and then reopen it.
+
+            3. Sign out and sign back in: Go to the Settings of the OneDrive app (gear icon) and select 'Sign out' at the bottom of the page. Wait a few moments before signing back in using your Microsoft account details.
+
+            4. Check for updates: Make sure you have the latest version of the OneDrive app installed on your device. Go to the App Store/Google Play Store, search for OneDrive and check if there are any updates available.
+
+            5. Clear cache and local files: Go to the Settings of the OneDrive app (gear icon) and select 'Settings' at the bottom of the page. Under 'Locations', select the folder you have been experiencing syncing issues with, and then click on 'Remove from this PC'. Wait for a few moments before selecting 'Add a network location' to re-add the folder.
+
+            6. Check quota: If your OneDrive storage is almost full, it can cause syncing problems. Go to the OneDrive website, sign in with your Microsoft account details and view your storage usage. Delete any unused or unnecessary files to free up space.
+
+            7. Reset OneDrive: As a last resort, you can reset OneDrive by going to the Settings of the app (gear icon), selecting 'Help & feedback' at the bottom of the page, and then selecting 'Reset'. Note that this will remove all locally synced files from your device(s) and re-sync them.

@@ -1,0 +1,2 @@
+Issue: If user wants O365 License 
+ To provide them with access to Microsoft's Office Suite, including popular applications such as Word, Excel, PowerPoint, Outlook, and Teams. This requires purchasing an O365 license from Microsoft or through a licensed partner, and then assigning the license to the user's account within the organization's Office 365 tenant. Depending on the specific O365 plan chosen by the organization, additional features and services may also be included, such as OneDrive cloud storage, Exchange email hosting, and advanced collaboration tools.
